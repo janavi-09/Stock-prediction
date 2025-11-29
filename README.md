@@ -1,3 +1,19 @@
 # Stock Prediction using Python
 
-Thrilled to present my python mini-project on stock prediction, focusing on tech giants Amazon, Microsoft, Google, and Apple! 📈 Leveraging the power of yfinance, Python, and data analytics, I explored market trends and historical data, analysed them and completed the necessary tasks.
+## 🧠 Project Overview
+A Python-based financial data analysis project that fetches live stock data from Yahoo Finance and visualizes price movement trends over time.
+
+## 🔍 Key Features
+Direct Yahoo Finance data extraction
+
+Trend visualization of stock price movement
+
+Volume trading analysis
+
+Suitable for future ML forecasting integration
+
+## 🛠 Tech Stack
+Python · Pandas · Matplotlib · yfinance
+
+## 📌 Output
+Graphs showing price fluctuations & trade volume over time.

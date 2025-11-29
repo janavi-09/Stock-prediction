@@ -13,7 +13,9 @@ Volume trading analysis
 Suitable for future ML forecasting integration
 
 ## 🛠 Tech Stack
+```
 Python · Pandas · Matplotlib · yfinance
+```
 
 ## 📌 Output
 Graphs showing price fluctuations & trade volume over time.

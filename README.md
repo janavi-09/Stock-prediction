@@ -1,4 +1,4 @@
-# Stock Prediction using Python
+# Stock Market Trend Analysis using Python
 
 ## 🧠 Project Overview
 A Python-based financial data analysis project that fetches live stock data from Yahoo Finance and visualizes price movement trends over time.
